@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hua-gouv/hua-gouv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hua-gouv
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Exploring+systems+and+software;Linux+%7C+Code+%7C+Open+Source;Somewhere+between+code+and+curiosity." />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<sub>Building, breaking, learning, repeating.</sub>
+
+---
+
+### ~/about
+
+```bash
+$ whoami
+hua-gouv
+
+$ cat interests.txt
+linux
+programming
+systems
+open-source
+
+$ echo $STATUS
+always learning
+```
+
+### ~/environment
+
+<img src="https://skillicons.dev/icons?i=linux,debian,bash,python,git,github,vscode&theme=dark" />
+
+---
+
+### ~/activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=hua-gouv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hua-gouv&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+
+---
+
+<sub>Less noise. More signal.</sub>
+
+</div>
