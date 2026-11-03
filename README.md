@@ -1,45 +1,32 @@
+
+<h2>Activity</h2>
+
+<p>
+  A little bit of code, a lot of learning.
+</p>
+
 <div align="center">
 
-# hua-gouv
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="3D contribution graph"
+  />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Exploring+systems+and+software;Linux+%7C+Code+%7C+Open+Source;Somewhere+between+code+and+curiosity." />
+  <br>
 
-<br>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hua-gouv&bg_color=0d1117&color=8b949e&line=2ea043&point=58a6ff&area=true&hide_border=true"
+    width="100%"
+    alt="Recent GitHub activity"
+  />
 
-<sub>Building, breaking, learning, repeating.</sub>
+  <br>
 
----
-
-### ~/about
-
-```bash
-$ whoami
-hua-gouv
-
-$ cat interests.txt
-linux
-programming
-systems
-open-source
-
-$ echo $STATUS
-always learning
-```
-
-### ~/environment
-
-<img src="https://skillicons.dev/icons?i=linux,debian,bash,python,git,github,vscode&theme=dark" />
-
----
-
-### ~/activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=hua-gouv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hua-gouv&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-
----
-
-<sub>Less noise. More signal.</sub>
+  <img
+    src="https://streak-stats.demolab.com?user=hua-gouv&theme=dark&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=8B949E"
+    width="65%"
+    alt="GitHub contribution streak"
+  />
 
 </div>
